@@ -42,4 +42,5 @@ cd Taller-PCBs-KiCAD-RASxCERES
 
 🤝 Créditos
 
-Taller colaborativo RAS x CERES (@ceres.robotics)[https://www.instagram.com/ceres.robotics/?hl=en]
+Taller colaborativo [(RAS)](https://www.instagram.com/ras_uniandes/?hl=en) x CERES [(@ceres.robotics)](https://www.instagram.com/ceres.robotics/?hl=en)
+
